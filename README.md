@@ -1,11 +1,13 @@
 # Copy Code with Hightlight
 
-OSX workflow to copy code with highlight.
+OSX workflows to copy code with highlight.
+
+Currently only CSS and JS syntax supported. You can copy and extend. Pull Requests are also welcome.
 
 ## Install
 
-1. Install (highlight)[http://www.andre-simon.de/doku/highlight/en/highlight.php]
-2. Install these workflows.
+1. Install [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php)
+2. Install these workflows.(automator may install them, if not, copy them to `~/Library/Services`.)
 
 ## Usage
 
